@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "glhd/bits": "^0.2",
+        "glhd/bits": "*",
         "illuminate/contracts": "^10.0|^11.0",
         "internachi/modular": "^2.0|dev-main",
         "spatie/laravel-package-tools": "^1.14.0",
